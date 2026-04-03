@@ -6,7 +6,7 @@ public class switchCase {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
-    System.out.println("Question:- who is the prime minister of India?");
+    System.out.println("Question:- who is the current prime minister of India?");
 
     System.out.println("1:- Rahul Gandhi");
     System.out.println("2:-Akhlish yadav");
